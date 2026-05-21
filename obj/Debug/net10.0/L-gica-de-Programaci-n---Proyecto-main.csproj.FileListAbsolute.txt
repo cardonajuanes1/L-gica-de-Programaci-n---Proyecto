@@ -1,0 +1,14 @@
+C:\Users\juanc\Downloads\L-gica-de-Programaci-n---Proyecto-main\bin\Debug\net10.0\L-gica-de-Programaci-n---Proyecto-main.exe
+C:\Users\juanc\Downloads\L-gica-de-Programaci-n---Proyecto-main\bin\Debug\net10.0\L-gica-de-Programaci-n---Proyecto-main.deps.json
+C:\Users\juanc\Downloads\L-gica-de-Programaci-n---Proyecto-main\bin\Debug\net10.0\L-gica-de-Programaci-n---Proyecto-main.runtimeconfig.json
+C:\Users\juanc\Downloads\L-gica-de-Programaci-n---Proyecto-main\bin\Debug\net10.0\L-gica-de-Programaci-n---Proyecto-main.dll
+C:\Users\juanc\Downloads\L-gica-de-Programaci-n---Proyecto-main\bin\Debug\net10.0\L-gica-de-Programaci-n---Proyecto-main.pdb
+C:\Users\juanc\Downloads\L-gica-de-Programaci-n---Proyecto-main\obj\Debug\net10.0\L-gica-de-Programaci-n---Proyecto-main.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juanc\Downloads\L-gica-de-Programaci-n---Proyecto-main\obj\Debug\net10.0\L-gica-de-Programaci-n---Proyecto-main.AssemblyInfoInputs.cache
+C:\Users\juanc\Downloads\L-gica-de-Programaci-n---Proyecto-main\obj\Debug\net10.0\L-gica-de-Programaci-n---Proyecto-main.AssemblyInfo.cs
+C:\Users\juanc\Downloads\L-gica-de-Programaci-n---Proyecto-main\obj\Debug\net10.0\L-gica-de-Programaci-n---Proyecto-main.csproj.CoreCompileInputs.cache
+C:\Users\juanc\Downloads\L-gica-de-Programaci-n---Proyecto-main\obj\Debug\net10.0\L-gica-de-Programaci-n---Proyecto-main.dll
+C:\Users\juanc\Downloads\L-gica-de-Programaci-n---Proyecto-main\obj\Debug\net10.0\refint\L-gica-de-Programaci-n---Proyecto-main.dll
+C:\Users\juanc\Downloads\L-gica-de-Programaci-n---Proyecto-main\obj\Debug\net10.0\L-gica-de-Programaci-n---Proyecto-main.pdb
+C:\Users\juanc\Downloads\L-gica-de-Programaci-n---Proyecto-main\obj\Debug\net10.0\L-gica-de-Programaci-n---Proyecto-main.genruntimeconfig.cache
+C:\Users\juanc\Downloads\L-gica-de-Programaci-n---Proyecto-main\obj\Debug\net10.0\ref\L-gica-de-Programaci-n---Proyecto-main.dll
